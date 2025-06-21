@@ -1,0 +1,15 @@
+# Ignore system/user-specific files
+AppData/
+*.log
+*.ldb
+*.old
+*.tmp
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore node_modules or other dependencies (if applicable)
+node_modules/
+dist/
+build/
